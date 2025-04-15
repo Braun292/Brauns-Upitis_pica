@@ -38,6 +38,24 @@ public class PicaPasutijums {
         }
 
         double daudzumaCena = cena * daudzums;
+
+        int piegadesIzvele = JOptionPane.showOptionDialog(null,
+                "Vēlaties saņemt uz vietas vai pasūtīt uz mājām?",
+                "Piegāde",
+                JOptionPane.DEFAULT_OPTION,
+                JOptionPane.PLAIN_MESSAGE,
+                null,
+                new String[]{"Pasūtīt (+5€)", "Saņemt uz vietas"},
+                "Pasūtīt");
+
+        switch (piegadesIzvele) {
+            case 0: // Piegāde
+                daudzumaCena += 5; // Piegādes maksa
+                break;
+            case 1: // Uz vietas
+                break;
+        }
+
         JOptionPane.showMessageDialog(null, "Cena par " + daudzums + " picām: " + daudzumaCena + "€", "Pasūtījums", JOptionPane.INFORMATION_MESSAGE);
     }
 
