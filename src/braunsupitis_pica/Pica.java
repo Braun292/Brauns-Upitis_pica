@@ -14,6 +14,7 @@ public class Pica {
         this.adrese = adrese;
         this.izmers = izmers;
         this.piegade = piegade;
+        this.cena = aprekinatCenu();
     }
 
     private double aprekinatCenu() {
