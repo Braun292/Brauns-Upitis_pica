@@ -1,0 +1,19 @@
+Daniels,24949567,daniels,Vidēja,Siers+Peperoni desiņas,Tomātu,Jā,13.5
+Daniels,24949567,daniels,Vidēja,Siers+Sēnes+Olīvas+Cūkgaļa,BBQ,Jā,14.5
+Daniels,24949567,daniels,Vidēja,Siers+Sēnes+Olīvas+Cūkgaļa,BBQ,Jā,14.5
+Daniels,24949567,daniels,Vidēja,Siers+Sēnes+Olīvas+Cūkgaļa,BBQ,Jā,14.5
+Daniels,,,Vidēja,Siers,Tomātu,Nē,8.0
+Daniels,,,Vidēja,Siers,Tomātu,Nē,8.0
+daniels,24949567,cieceres iela,Vidēja,Siers+Peperoni desiņas,Tomātu,Jā,13.5
+daniels,24949567,cieceres iela,Liela,Siers+Sēnes+Paprika+Liellopu gaļa,BBQ,Jā,17.5
+daniels,24949567,cieceres iela,Liela,Siers+Sēnes+Paprika+Liellopu gaļa,BBQ,Jā,17.5
+daniels,24949567,cieceres iela,Liela,Siers+Sēnes+Paprika+Liellopu gaļa,BBQ,Jā,17.5
+daniels,,,Vidēja,Siers+Sēnes,Tomātu,Nē,8.5
+daniels,,,Vidēja,Siers+Sēnes,Tomātu,Nē,8.5
+daniels,,,Liela,Siers+Sēnes+Paprika+Cūkgaļa,BBQ,Nē,12.5
+dada,24949567,cieceres iela,Vidēja,Siers+Peperoni desiņas,Tomātu,Jā,13.5
+ad,,,Vidēja,Siers+Peperoni desiņas,Tomātu,Nē,8.5
+da,24949567,cieceres iela,Vidēja,Siers+Peperoni desiņas,Tomātu,Jā,13.5
+da,,,Vidēja,Siers+Peperoni desiņas,Tomātu,Nē,8.5
+Roberts,24956789,dadad,Vidēja,Siers+Peperoni desiņas,Tomātu,Jā,13.5
+roberts,,,Vidēja,Siers+Peperoni desiņas,Tomātu,Nē,8.5
